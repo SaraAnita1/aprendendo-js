@@ -1,0 +1,13 @@
+Criar uma pagina Web que:
+-> Pede ao Usuario sua idade (em Anos) utilizando prompt()
+-> Devolva a Idade do Usuario em Segundos, utilizando document.write()
+
+Tarefas (TODO) 👌
+
+👌 Criar um arquivo HTML
+👌 Criar um Arquivo javascript
+👌 Fazer uma estrutura HTML
+👌 Perguntar a idade do Usuario Atraves do prompt()
+👌 Conectar javascript com o HTML
+👌 Converter a idade em segundos
+-> Mostrar o resultado da sua Pagina web por meio do document.write()
