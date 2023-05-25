@@ -29,3 +29,12 @@ console.log(twoPapel)
 
 const totalFarinha = papel + twoPapel
 console.log(totalFarinha) */
+
+// const paoDeQueijo = () => {
+//     return console.log('pao de queijo')
+// }
+
+
+
+// const paoQueijo = () => console.log('pao de queijo')
+
